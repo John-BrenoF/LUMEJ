@@ -11,7 +11,7 @@ corporation to use, study, modify, alter, and sell this software or derivative
 works thereof, provided that all conditions of this license are strictly respected.
 
 2. ATTRIBUTION OF CREDITS AND COPYRIGHT
-The original author, [Copyright Holder's Name], retains all copyright to the software. 
+The original author, [NAME], retains all copyright to the software. 
 The name of the original creator, as well as the copyright notices contained 
 in the original source files, MUST be kept intact and explicitly displayed in 
 all copies, distributions, sublicenses, or derivative works of this software.
@@ -61,10 +61,3 @@ OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
 MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE AUTHOR 
 BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
 DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.
-
-8. GOVERNING LAW AND JURISDICTION
-This License shall be governed by and construed in accordance with the laws of Brazil. 
-Any legal disputes arising from this License shall be settled exclusively in the courts 
-of Brazil. If any provision of this License is found to be invalid or unenforceable 
-under local law in any country, such provision shall be modified to the minimum extent 
-necessary to make it valid, and the remaining provisions shall remain in full force and effect.
