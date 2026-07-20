@@ -1,0 +1,66 @@
+LICENÇA DE USO ÉTICO E JUSTO DE CÓDIGO LIVRE (LUMEJ)
+Versão 1.0 — Copyright (c) [Ano] [Nome do Detentor dos Direitos Autorais]
+
+Por favor, leia este contrato de licença atentamente antes de usar, modificar ou 
+distribuir este software. Ao utilizar este software, você concorda com todos os 
+termos descritos abaixo.
+
+1. LIBERDADE DE USO, ESTUDO E COMERCIALIZAÇÃO
+Este software é livre. É concedida permissão a qualquer indivíduo, startup ou 
+corporação para usar, estudar, modificar, alterar e vender este software ou 
+trabalhos derivados dele, desde que todas as condições desta licença sejam 
+estritamente respeitadas.
+
+2. ATRIBUIÇÃO DE CRÉDITOS E DIREITOS AUTORAIS
+O autor original, [Nome do Detentor dos Direitos Autorais], retém todos os direitos autorais do software. 
+O nome do criador original, bem como os avisos de direitos autorais contidos nos arquivos 
+fonte originais, DEVEM ser mantidos intactos e exibidos explicitamente em todas as cópias, 
+distribuições, sublicenças ou trabalhos derivados deste software.
+
+3. RECIPROCIDADE DE CÓDIGO (COPYLEFT FRACO)
+A modificação e integração deste código são permitidas sob as seguintes regras:
+a) Qualquer modificação, correção de bugs, otimização ou adição direta feita aos arquivos 
+   de código-fonte originais deste software DEVE ter seu código aberto e ser disponibilizada 
+   publicamente sob os mesmos termos desta licença.
+b) Código injetado via plugins, extensões ou módulos independentes que se comuniquem com 
+   este software através de interfaces de programação (APIs) ou vinculação dinâmica, sem 
+   modificar o core do código original, NÃO são considerados trabalhos derivados. Portanto, 
+   não são obrigados a abrir o código ou a adotar esta mesma licença.
+
+4. POLÍTICA DE PRIVACIDADE, TRANSPARÊNCIA E ANTI-MALWARE
+Este software prioriza a experiência e a privacidade do usuário. É expressamente PROIBIDA 
+a distribuição de trabalhos derivados ou modificados deste software que incluam as seguintes práticas:
+
+a) Telemetria Desnecessária: O software não pode coletar ou transmitir dados de uso, 
+   informações pessoais ou do dispositivo além do estritamente necessário para o funcionamento 
+   técnico básico do sistema. Qualquer coleta essencial DEVE ocorrer de maneira transparente e 
+   claramente informada ao usuário. Telemetria oculta ou excessiva infringe esta licença.
+b) Anúncios Invasivos (Adware): Caso o software modificado ou derivado utilize publicidade, 
+   esta não pode afetar negativamente a usabilidade. 
+   - São PROIBIDOS: Anúncios em tela cheia (pop-ups ou intersticiais agressivos), anúncios 
+     que interrompam o fluxo de uso forçadamente ou qualquer publicidade abusiva.
+
+O descumprimento de qualquer item desta cláusula revoga imediatamente o direito de uso, 
+modificação e distribuição do software.
+
+5. POLÍTICAS DE PRIVACIDADE E REGRAS INTERNAS DO APLICATIVO
+Trabalhos derivados e modificações do software podem estabelecer suas próprias políticas 
+de privacidade, termos de uso e regras internas de funcionamento do aplicativo (definindo 
+como o sistema opera, fluxos de usabilidade e comportamento do app), desde que essas 
+regras e políticas não contradigam nenhuma das cláusulas de privacidade e ética 
+estabelecidas nesta licença.
+
+6. REGRAS INTERNAS DE DESENVOLVIMENTO (GOVERNANÇA DO REPOSITÓRIO ORIGINAL)
+As diretrizes de contribuição, padrões de código, fluxos de trabalho e regras internas de 
+desenvolvimento estabelecidas pelo dono do código original em seu repositório principal 
+devem ser obrigatoriamente respeitadas pelos contribuidores daquele projeto, desde que 
+não contradigam os termos desta licença. Esta cláusula e suas obrigações de desenvolvimento 
+restringem-se ao repositório original e NÃO se aplicam a outros trabalhos independentes 
+que sejam derivados do código.
+
+7. ISENÇÃO DE RESPONSABILIDADE (GARANTIA)
+ESTE SOFTWARE É FORNECIDO PELO DETENTOR DOS DIREITOS AUTORAIS "NO ESTADO EM QUE SE ENCONTRA", 
+SEM QUALQUER GARANTIA EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS 
+IMPLÍCITAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. EM NENHUM CASO O AUTOR 
+SERÁ RESPONSABILIZADO POR QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, 
+EXEMPLARES OU CONSEQUENTES DECORRENTE DE QUALQUER FORMA DO USO DESTE SOFTWARE.
